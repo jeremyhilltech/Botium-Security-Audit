@@ -34,17 +34,17 @@ Assets managed by the IT Department include:
 - Data retention and storage
 - Legacy system maintenance: end-of-life systems that require human monitoring 
 
-### Risk assessment
+### Risk Assessment
 Risk description: 
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards. 
 
-### Control best practices
+### Control Best Practices
 The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to identify assets so they can appropriately manage them. Additionally, they will need to classify existing assets and determine the impact of the loss of existing assets, including systems, on business continuity.
 
-### Risk score
+### Risk Score
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to compliance best practices.
 
-### Additional comments
+### Additional Comments
 The potential impact from the loss of an asset is rated as medium, because the IT department does not know which assets would be at risk. The risk to assets or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not fully adhering to best practices related to compliance regulations that keep critical data private/secure. Review the following bullet points for specific details:
 
   - Currently, all Botium Toys employees have access to internally stored data and may be able to access cardholder data and customers’ PII/SPII.
@@ -63,11 +63,13 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 ---
 
-## **Response After Assessment Review**
+## **Report Given In Response To Assessment Review**
 
-### Controls & Compliance Checklist
+### Botium Toys Controls & Compliance Report
 
-**Controls assessment checklist**
+After careful review of the information gathered in the initial assessment, this report has been generated to give a high-level view of current practices within the company as well as recommendations for hardening security posture and streamlining security practices within the company. The first portion outlines the current state of controls and compliance, with recommendations given last. This document serves to function as an aid for the IT Manager or others in supporting positions to communicate to stakeholders the current security and compliance needs of the organization in order to avoid illegal practices, fines, data breaches, and irreparable damage to Botium Toys' reputation. 
+
+**Controls Assessment Checklist**
 
 |   Yes |     No | Control |
 | ----- | ----- | :---- |
@@ -88,7 +90,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 ---
 
-**Compliance checklist**
+**Compliance Checklist**
 
 Payment Card Industry Data Security Standard (PCI DSS)
 
@@ -145,6 +147,13 @@ SOC (Systems and Organizations Controls) Considerations:
 * Establish organization-wide user policies and procedures.   
 * Ensure that all PII/SPII is confidential, authentic, available to proper parties, and protected. 
 
+Closing Comments: 
 
+If you have additional questions, please do not hesitate to reach out for clarification and help with additional resources. Thank you for your time and attention to these matters, I look forward to working with the team to secure Botium Toys and continue to build a brand that our customers will trust for many successful years to come. 
 
+Very Respectfully, 
+
+> Jeremy Hill  
+> Governance, Risk, and Compliance Analyst  
+> Botium Toys
 
